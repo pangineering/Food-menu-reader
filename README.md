@@ -1,10 +1,10 @@
 
-# Food Menu Reader
-Take photo to extract the food name from foreign language and translated into your language. 
-
-<p align="center">
+# Food Menu Reader <p align="center">
   <img src="status-in-progress.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </p>
+Take photo to extract the food name from foreign language and translated into your language. 
+
+
 
 
 ## Features
